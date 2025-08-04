@@ -24,7 +24,7 @@ O **OTIB** é um observatório dedicado ao estudo, análise e promoção do turi
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=white&style=for-the-badge)
+[![Vitest](https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=white&style=for-the-badge)](https://vitest.dev/)
 
 ### Backend
 
@@ -35,7 +35,7 @@ O **OTIB** é um observatório dedicado ao estudo, análise e promoção do turi
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)](https://www.sonarqube.org/)
+[![SonarQube Cloud](https://img.shields.io/badge/SonarQube_Cloud-4E9BCD?style=for-the-badge&logo=sonarqubecloud&logoColor=white)](https://www.sonarqube.org/)
 
 ## 🤝 Como Contribuir
 
