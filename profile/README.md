@@ -52,8 +52,6 @@ O **OTIB** é um observatório dedicado ao estudo, análise e promoção do turi
 - **GitHub**: [@otib-hub](https://github.com/otib-hub)
 
 ---
-<br/>
-<br/>
 
 <div align="center">
 
